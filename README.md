@@ -1,6 +1,2 @@
 # Snake and Ladder
-Created using HTML, CSS, Javascript
-
-Demo:
-
-https://dtsiken.github.io/websnakeladder/
+Created using HTML, CSS, Javascript No Frameworks Used
